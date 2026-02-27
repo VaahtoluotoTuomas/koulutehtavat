@@ -1,0 +1,3 @@
+# Raportti tekoälyn käytöstä
+
+Jos jotain konseptia oli vaikea ymmärtää dokumentaation ja kurssimateriaalien pohjalta, saatoin kysyä tekoälyltä tarkempaa, enemmän rautalangasta väännettyä selitystä tuosta aiheesta. Muutaman kerran kysyin tekoälyltä jotain tiettyä metodia, jos en muistanut sitä ulkoa tai nopealla haulla löytänyt sopivaa vastausta googlesta. Debuggasin myös paria virheilmoitusta tekoälyn kanssa. 
